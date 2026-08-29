@@ -12,7 +12,7 @@ The program demonstrates a basic C program that displays
 ## Student Details
 
 **Name:** Karthik MR  
-**Course:** B.Tech CSE  
+**Course:** B.Tech CSIT
 **Semester:** 3rd Semester  
 
 ## Program
